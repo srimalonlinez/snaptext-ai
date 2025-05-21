@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149165582495",
+    "project_id": "snaptext-ai",
+    "storage_bucket": "snaptext-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149165582495:android:e7c5ff51f451e08cbd5aaa",
+        "android_client_info": {
+          "package_name": "com.example.snaptext_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWKJTKmYTVIv0y70PI6SILUxruP4c8y8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

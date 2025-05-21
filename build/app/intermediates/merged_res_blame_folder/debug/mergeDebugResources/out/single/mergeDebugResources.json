@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\srima\\.gradle\\daemon\\8.10.2\\com.example.snaptext_ai.app-debug-97:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\srima\\.gradle\\daemon\\8.10.2\\com.example.snaptext_ai.app-main-91:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\srima\\.gradle\\daemon\\8.10.2\\com.example.snaptext_ai.app-debug-97:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\srima\\.gradle\\daemon\\8.10.2\\com.example.snaptext_ai.app-main-91:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\srima\\.gradle\\daemon\\8.10.2\\com.example.snaptext_ai.app-debug-97:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\srima\\.gradle\\daemon\\8.10.2\\com.example.snaptext_ai.app-main-91:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\srima\\.gradle\\daemon\\8.10.2\\com.example.snaptext_ai.app-debug-97:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\srima\\.gradle\\daemon\\8.10.2\\com.example.snaptext_ai.app-main-91:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\srima\\.gradle\\daemon\\8.10.2\\com.example.snaptext_ai.app-debug-97:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\srima\\.gradle\\daemon\\8.10.2\\com.example.snaptext_ai.app-main-91:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\srima\\.gradle\\daemon\\8.10.2\\com.example.snaptext_ai.app-debug-97:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\srima\\.gradle\\daemon\\8.10.2\\com.example.snaptext_ai.app-main-91:\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

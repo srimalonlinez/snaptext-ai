@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">149165582495</string>
+    <string name="google_api_key" translatable="false">AIzaSyAWKJTKmYTVIv0y70PI6SILUxruP4c8y8k</string>
+    <string name="google_app_id" translatable="false">1:149165582495:android:e7c5ff51f451e08cbd5aaa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAWKJTKmYTVIv0y70PI6SILUxruP4c8y8k</string>
+    <string name="google_storage_bucket" translatable="false">snaptext-ai.firebasestorage.app</string>
+    <string name="project_id" translatable="false">snaptext-ai</string>
+    <style name="LaunchTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="Theme.MaterialComponents">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>

@@ -1,0 +1,1 @@
+ E:\\snaptext_ai\\.dart_tool\\flutter_build\\7bad2b8fe428d694232bbe0675c5cf3e\\native_assets.json: 

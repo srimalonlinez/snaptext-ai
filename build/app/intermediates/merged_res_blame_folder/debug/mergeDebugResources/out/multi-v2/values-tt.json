@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.snaptext_ai.app-mergeDebugResources-95:/values-tt/values-tt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\srima\\.gradle\\caches\\8.10.2\\transforms\\e3e23fea079b3229dacaad66035f785e\\transformed\\jetified-hcaptcha-21.6.0\\res\\values-tt\\values-tt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "87",
+                        "endOffsets": "138"
+                    }
+                }
+            ]
+        }
+    ]
+}

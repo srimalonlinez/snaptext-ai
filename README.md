@@ -35,7 +35,6 @@
 
 ### 1. Clone the Project
 
-```bash
 git clone https://github.com/srimalonlinez/snaptext-ai.git
 cd snaptext-ai
 

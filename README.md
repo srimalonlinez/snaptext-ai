@@ -35,9 +35,8 @@
 
 ### 1. Clone the Project
 
-```bash
 git clone https://github.com/srimalonlinez/snaptext-ai.git
-```bash
+
 cd snaptext-ai
 
 ### 2. Install Dependencies

@@ -36,6 +36,7 @@
 ### 1. Clone the Project
 
 git clone https://github.com/srimalonlinez/snaptext-ai.git
+
 cd snaptext-ai
 
 ### 2. Install Dependencies
